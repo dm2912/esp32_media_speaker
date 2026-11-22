@@ -1,9 +1,10 @@
+
 # esp32_media_speaker
 Home assistant connected media speaker using a chinese replica amazon echo device. 
 
 No voice, purely a speaker with led's and utilising the existing button board for controls.
 
-<img width="1000" height="1300" alt="IMG_20261122_133715" src="https://github.com/user-attachments/assets/1d53dbcd-f9c1-42f0-9cfd-7e315fd8d00b" />
+<img width="2800" height="2981" alt="IMG_20261122_133715" src="https://github.com/user-attachments/assets/3bcaf3de-d58a-4eec-a18c-b326d41fd8be" />
 
 Parts:
 
