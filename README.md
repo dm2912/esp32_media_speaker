@@ -3,7 +3,7 @@ Home assistant connected media speaker using a chinese replica amazon echo devic
 
 No voice, purely a speaker with led's and utilising the existing button board for controls.
 
-<img width="3000" height="4000" alt="IMG_20261122_133715" src="https://github.com/user-attachments/assets/42c71d12-0cd6-410a-98a1-6be957202db8" />
+<img width="1000" height="1300" alt="IMG_20261122_133715" src="https://github.com/user-attachments/assets/1d53dbcd-f9c1-42f0-9cfd-7e315fd8d00b" />
 
 Parts:
 
@@ -23,15 +23,15 @@ Teardown:
 
 + dispose of the circuit board, and the battery compartment. 
 
-<img width="3000" height="4000" alt="IMG_20261122_134915" src="https://github.com/user-attachments/assets/a05293e3-4924-4f9d-9697-c5d727d4152e" />
+<img width="1000" height="1300" alt="IMG_20261122_134915" src="https://github.com/user-attachments/assets/005efa79-5053-4dec-ade2-68deab2a60f5" />
 
 + The existing button board can be popped out and then repurposed using the wiring on the schematic
 
-<img width="3000" height="4000" alt="IMG_20261122_143733" src="https://github.com/user-attachments/assets/e8f6a627-b4b3-4a56-9fe1-bc0085080dcf" />
+<img width="1000" height="1300" alt="IMG_20261122_143733" src="https://github.com/user-attachments/assets/e8f6a627-b4b3-4a56-9fe1-bc0085080dcf" />
 
 + Glue in place and then build the rest of the setup using the schematic
 
-<img width="3000" height="4000" alt="IMG_20261122_144521" src="https://github.com/user-attachments/assets/9918a27e-3af3-4f28-9494-af0e6d5efa95" />
+<img width="1000" height="1300" alt="IMG_20261122_144521" src="https://github.com/user-attachments/assets/9918a27e-3af3-4f28-9494-af0e6d5efa95" />
 
 Schematic
 ---------
