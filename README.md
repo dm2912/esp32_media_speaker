@@ -1,8 +1,12 @@
 
+
+
 # esp32_media_speaker
 Home assistant connected media speaker using a chinese replica amazon echo device. 
 
 No voice, purely a speaker with led's and utilising the existing button board for controls.
+
+NOTE: The speaker is kinda sucky so don't expect it to be any good for music. I built it as a bedside speaker to read audiobooks and play sleep sounds. 
 
 <img width="2800" height="2981" alt="IMG_20261122_133715" src="https://github.com/user-attachments/assets/3bcaf3de-d58a-4eec-a18c-b326d41fd8be" />
 
